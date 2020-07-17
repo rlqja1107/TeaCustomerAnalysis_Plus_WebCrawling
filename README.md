@@ -10,6 +10,6 @@ Code Link : [Click Here](https://github.com/rlqja1107/TeaCustomerAnalysis/blob/m
 **실제 판매**   
 Report Link : [Click Here](https://github.com/rlqja1107/TeaCustomerAnalysis/wiki)
 ### 군집의 갯수를 정하기 위해서 K-meams 기법 이용  
-Link : [Click Here](https://github.com/rlqja1107/TeaCustomerAnalysis/blob/master/Code/Kmeans_Code.py)  
+Code Link : [Click Here](https://github.com/rlqja1107/TeaCustomerAnalysis/blob/master/Code/Kmeans_Code.py)  
 ### K-means의 연속형 특성 한계로 **계층 군집** 이용  
-Link : [Click Here](https://github.com/rlqja1107/TeaCustomerAnalysis/blob/master/Code/Final_Code.py)  
+Code Link : [Click Here](https://github.com/rlqja1107/TeaCustomerAnalysis/blob/master/Code/Final_Code.py)  
