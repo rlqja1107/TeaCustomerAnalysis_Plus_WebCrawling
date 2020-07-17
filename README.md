@@ -16,4 +16,4 @@ Code Link : [Click Here](https://github.com/rlqja1107/TeaCustomerAnalysis/blob/m
 ### K-means의 연속형 특성 한계로 **계층 군집** 이용  
 Code Link : [Click Here](https://github.com/rlqja1107/TeaCustomerAnalysis/blob/master/Code/Final_Code.py)  
 ### 사용언어  
-**
+**Python**
